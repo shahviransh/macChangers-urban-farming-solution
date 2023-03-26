@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+*::-webkit-scrollbar {
+      width: 10px;
+  }
+  /*Firefox and Edge*/
+  * {
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+  }
