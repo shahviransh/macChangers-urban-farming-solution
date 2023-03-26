@@ -1,0 +1,12 @@
+.Title{
+    font-size: 7rem;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+.navbar{
+    /* put space under */
+    padding: 10rem 0;
+}
