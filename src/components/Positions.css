@@ -1,21 +1,20 @@
 h1 {
-    color: #fafafa;
-    font-family: 'Roboto', sans-serif;
-    font-size: 3rem;
-    font-weight: 700;
-    margin-bottom: 1rem;
-  }
-  
-  .Pos__container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 1rem;
-    padding: 1rem;
-    margin: 1rem;
-  }
-  
-  /* use the class selector for PositionCard */
-  .PositionCard {
-    margin: 1rem;
-  }
-  
+  color: #fafafa;
+  font-family: "Roboto", sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.Pos__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+/* use the class selector for PositionCard */
+.PositionCard {
+  margin: 1rem;
+}

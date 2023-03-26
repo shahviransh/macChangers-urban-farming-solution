@@ -17,7 +17,7 @@ const images = [
 
 export default function ImageGallery() {
   const trackRef = useRef(null);
-// document.getElementById("image-track"); convert to react
+  // document.getElementById("image-track"); convert to react
   const mouseDownAtRef = useRef(0);
   const prevPercentageRef = useRef(0);
 
