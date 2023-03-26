@@ -11,7 +11,7 @@ function App() {
   return (
     <div class="overflow-y:auto">
       <Navbar/>
-      {/* <ImageGallery/> */}
+      <ImageGallery/>
       <Positions/>
     </div>
 
