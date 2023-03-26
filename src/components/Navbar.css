@@ -1,4 +1,6 @@
 .Title{
+    display: inline-flex;
+    margin-top: 8rem;
     font-size: 7rem;
     font-weight: 600;
     color: #fff;
