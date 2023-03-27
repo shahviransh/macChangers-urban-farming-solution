@@ -22,7 +22,7 @@ function App() {
   ];
 
   return (
-    <div>
+    <div class="bg-gradient-to-br from-[#8bce21] to-[#5884FB]">
       <Navbar />
       <div className='App'>
         {/* <ImageGallery/> */}
