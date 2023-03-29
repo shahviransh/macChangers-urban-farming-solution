@@ -1,19 +1,18 @@
 import React from 'react'
-import './filterbox.css'
 const filterbar = () => {
   return (
     <div>
-        <div className='filterbar'>
+        <div className='flex justify-between items-center mb-5 px-14 py-2'>
             <div className='date-filter'>
-                  <h6 class="text-black"> Start date: </h6>
+                  <h6 className="text-black"> Start date: </h6>
                 <input type="date" name="date" />
             </div>
             <div className='location-filter'>
-                  <h6 class="text-black"> Location: </h6>
+                  <h6 className="text-black"> Location: </h6>
                 <input type="text" name="location" />
             </div>
             <div className='type-filter'>
-                  <h6 class="text-black"> Type: </h6>
+                  <h6 className="text-black"> Type: </h6>
                 <select name="type">
                     <option value="volunteer">volunteer</option>
                     <option value="paid">paid</option>
@@ -22,7 +21,7 @@ const filterbar = () => {
                 </select>
             </div>
             <div className='searchbar'>
-                  <h6 class="text-black">
+                  <h6 className="text-black">
                     Search: 
                 </h6>
                 <input type="text" name="search" />
@@ -30,7 +29,7 @@ const filterbar = () => {
             <div>
                 <div className='filterbar__checkbox'>
                     <input type="checkbox" name="checkbox" />
-                      <label class="text-black"> Show only positions with openings</label>
+                      <label className="text-black"> Show only positions with openings</label>
                 </div>
             </div>
             <div>
