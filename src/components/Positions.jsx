@@ -25,7 +25,8 @@ Contact Info: HamiltonPlanters@gmail.com" link="https://timothy-leung.vercel.app
 Location: Hamilton
 Contact Info: gBeans@gmail.com" link="https://timothy-leung.vercel.app/" />
           <PositionCard Position="Pruner" Company="Green Beans" Description=" Help needed with managing and pruning the crops of the Green Bean garden.
-Location: Hamilton" link="https://timothy-leung.vercel.app/" />
+Location: Hamilton
+Contact Info: gBeans@gmail.com" link="https://timothy-leung.vercel.app/" />
         </div>
       </div>
     </div>
