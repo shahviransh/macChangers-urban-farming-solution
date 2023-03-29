@@ -11,11 +11,16 @@ const Positions = () => {
         <div className='Pos__container'>
           <PositionCard Position="Plant Interrogator" Company="By Hamilton Planters" Description="Help needed handling intrusive plant species situated around the garden.
 Location: Hamilton" link="https://timothy-leung.vercel.app/" />
-          <PositionCard Position="Gardener" Company="UrbanFarmsOrg" Description="VOLUNTEERING POSITION! 2" link="https://timothy-leung.vercel.app/" />
-          <PositionCard Position="Gardener" Company="UrbanFarmsOrg" Description="VOLUNTEERING POSITION! 3" link="https://timothy-leung.vercel.app/" />
-          <PositionCard Position="Gardener" Company="UrbanFarmsOrg" Description="VOLUNTEERING POSITION! 4" link="https://timothy-leung.vercel.app/" />
-          <PositionCard Position="Gardener" Company="UrbanFarmsOrg" Description="VOLUNTEERING POSITION! 5" link="https://timothy-leung.vercel.app/" />
-          <PositionCard Position="Gardener" Company="UrbanFarmsOrg" Description="VOLUNTEERING POSITION! 6" link="https://timothy-leung.vercel.app/" />
+          <PositionCard Position="Irrigation Assistant" Company="Green Beans" Description="Assistance required managing the plant watering and irrigation system.
+Location: Hamilton" link="https://timothy-leung.vercel.app/" />
+          <PositionCard Position="Harvestor" Company="Green Beans" Description="Helping hands welcome to assist in the harvesting process at our farm!
+Location: Hamilton" link="https://timothy-leung.vercel.app/" />
+          <PositionCard Position="Harvestor" Company="Hamilton Planters" Description="Helping hands welcome to assist in the harvesting process at our farm!
+Location: Hamilton" link="https://timothy-leung.vercel.app/" />
+          <PositionCard Position="Distribution Assistant" Company="Green Beans" Description=" Looking for people to assist in the transportation and distribution of crop yields.
+Location: Hamilton" link="https://timothy-leung.vercel.app/" />
+          <PositionCard Position="Pruner" Company="Green Beans" Description=" Help needed with managing and pruning the crops of the Green Bean garden.
+Location: Hamilton" link="https://timothy-leung.vercel.app/" />
         </div>
       </div>
     </div>
