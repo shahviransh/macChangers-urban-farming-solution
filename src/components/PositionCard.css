@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   /*  radial background gradient of greens*/
-  background: linear-gradient(90deg, #23d84a 0%, #057019 100%);
+  background: linear-gradient(90deg, #dacafc 0%, #ffffff 100%);
   /*  border radius */
   border-radius: 1rem;
   /*  padding */
