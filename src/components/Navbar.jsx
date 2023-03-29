@@ -10,7 +10,7 @@ const navbar = () => {
           // src="https://static.vecteezy.com/system/resources/previews/004/818/823/original/tractor-logo-or-farm-logo-template-suitable-for-any-business-related-to-agriculture-industries-free-vector.jpg"
           src = {logoImg}
           alt="Logo"
-          style={{ marginTop: '-14rem', marginLeft: '0rem', width: '300px', height: 'auto' }}
+          style={{ marginTop: '-8rem', marginLeft: '6rem', width: '150px', height: '150px' }}
         />
       </div>
       
