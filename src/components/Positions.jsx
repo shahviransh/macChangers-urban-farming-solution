@@ -19,7 +19,7 @@ Contact Info: HamiltonPlanters@gmail.com"
           />
           <PositionCard
             Position="Irrigation Assistant"
-            Company="Berry Garries"
+            Company="By Berry Garries"
             Description="Assistance required managing the plant watering and irrigation system.
 | Location: Hamilton |
 Contact Info: GarriesCo@hotmail.com"
@@ -27,7 +27,7 @@ Contact Info: GarriesCo@hotmail.com"
           />
           <PositionCard
             Position="Harvestor"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description="Helping hands welcome to assist in the harvesting process at our farm!
 | Location: Hamilton |
 Contact Info: gBeans@gmail.com"
@@ -35,7 +35,7 @@ Contact Info: gBeans@gmail.com"
           />
           <PositionCard
             Position="Harvestor"
-            Company="Hamilton Planters"
+            Company="By Hamilton Planters"
             Description="Helping hands welcome to assist in the harvesting process at our farm!
 | Location: Hamilton |
 Contact Info: HamiltonPlanters@gmail.com"
@@ -43,7 +43,7 @@ Contact Info: HamiltonPlanters@gmail.com"
           />
           <PositionCard
             Position="Distribution Assistant"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description=" Looking for people to assist in the transportation and distribution of crop yields.
 | Location: Hamilton |
 Contact Info: gBeans@gmail.com"
@@ -51,7 +51,7 @@ Contact Info: gBeans@gmail.com"
           />
           <PositionCard
             Position="Pruner"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description=" Help needed with managing and pruning the crops of the Green Bean garden.
 | Location: Hamilton |
 Contact Info: gBeans@gmail.com"
