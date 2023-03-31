@@ -34,7 +34,7 @@ Contact Info: gBeans@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
-            Position="Harvestor"
+            Position="Harvester"
             Company="By Hamilton Planters"
             Description="Helping hands welcome to assist in the harvesting process at our farm!
 | Location: Hamilton |
