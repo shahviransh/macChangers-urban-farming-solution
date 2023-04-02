@@ -13,47 +13,47 @@ const Positions = () => {
             Position="Plant Interrogator"
             Company="By Hamilton Planters"
             Description="Help needed handling intrusive plant species situated around the garden.
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: HamiltonPlanters@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
             Position="Irrigation Assistant"
-            Company="Berry Garries"
+            Company="By Berry Garries"
             Description="Assistance required managing the plant watering and irrigation system.
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: GarriesCo@hotmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
             Position="Harvestor"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description="Helping hands welcome to assist in the harvesting process at our farm!
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: gBeans@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
-            Position="Harvestor"
-            Company="Hamilton Planters"
+            Position="Harvester"
+            Company="By Hamilton Planters"
             Description="Helping hands welcome to assist in the harvesting process at our farm!
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: HamiltonPlanters@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
             Position="Distribution Assistant"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description=" Looking for people to assist in the transportation and distribution of crop yields.
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: gBeans@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
           <PositionCard
             Position="Pruner"
-            Company="Green Beans"
+            Company="By Green Beans"
             Description=" Help needed with managing and pruning the crops of the Green Bean garden.
-Location: Hamilton
+| Location: Hamilton |
 Contact Info: gBeans@gmail.com"
             link="https://timothy-leung.vercel.app/"
           />
