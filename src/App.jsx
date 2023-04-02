@@ -22,7 +22,7 @@ function App() {
   ];
 
   return (
-    <div class="px-2 bg-gradient-to-br from-[#ffffff] to-[#6fdcf7]">
+    <div className="px-2 bg-gradient-to-br from-[#ffffff] to-[#6fdcf7]">
       <Navbar />
       <div className='App px-20'>
         {/* <ImageGallery/> */}
